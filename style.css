@@ -1,0 +1,73 @@
+.inner-shadow {
+    box-shadow: inset 0 -40px 50px -40px #07965b;
+  }
+
+.roboto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.oswald {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.ptsans {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bg-descomplica{
+    background-color: #04eb8b;
+}
+
+
+.bg-hero{
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  linear-gradient(30deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(150deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(30deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(150deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(60deg, #444cf777 25%, transparent 25.5%, transparent 75%, #444cf777 75%, #444cf777), linear-gradient(60deg, #444cf777 25%, transparent 25.5%, transparent 75%, #444cf777 75%, #444cf777);
+    background-size: 54px 95px;
+    background-position: 0 0, 0 0, 27px 47px, 27px 47px, 0 0, 27px 47px;
+}
+
+.bg-tst{
+    background-image: url(assets);
+}
+
+
+.mb-n5 {
+    margin-bottom: -0.75rem !important;
+}
+
+.mt-n5 {
+    margin-top: -0.75rem !important;
+}
+
+.bg-conteudo{
+    background-color: #fff;
+    opacity: 1;
+    background-image: radial-gradient(#444cf7 1.35px, #fff 1.35px);
+    background-size: 27px 27px;
+}
+
+.bg-conteudo{
+    background-color: #fff;
+    opacity: 1;
+    background-image: radial-gradient(#444cf7 1.35px, #fff 1.35px);
+    background-size: 27px 27px;
+}
+
+.bg-conteudo-gray{
+    background-color: #e9ecef;
+    opacity: 1;
+    background-image: radial-gradient(#000 1.35px, #e9ecef 1.35px);
+    background-size: 27px 27px;
+}
+
+.bg-g200{
+    background-color: #e9ecef;
+}
